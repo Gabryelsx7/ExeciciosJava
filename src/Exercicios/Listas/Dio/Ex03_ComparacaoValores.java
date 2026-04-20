@@ -7,7 +7,7 @@ package Exercicios.Listas.Dio;
 
 import java.util.Scanner;
 
-public class Ex03_Numeros {
+public class Ex03_ComparacaoValores {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
