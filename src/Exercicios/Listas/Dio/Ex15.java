@@ -2,7 +2,7 @@ package Exercicios.Listas.Dio;
 
 import java.util.Scanner;
 
-public class Ex15 {
+public class    Ex15 {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
